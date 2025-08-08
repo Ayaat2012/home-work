@@ -1,4 +1,4 @@
-print("Welcom to the Number Guessing game! \nJust don't look at the code ;)")
+print("Welcom to the Number Guessing game! \nJust don't look at the code while guessing ;)")
 print("\n\nLet's get started then!")
 print("I'm thinking of a number between 1 and 10. Can u guess it?")
 
